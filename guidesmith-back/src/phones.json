@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Apple iPhone 13 Pro",
+    "manufacturer": "Apple",
+    "description":
+      "The iPhone 13 Pro is the best phone Apple produces and it received a stellar score in our review. The new smartphone adds a third rear camera with 3x optical zoom (up from 2x on the iPhone 12), a stainless steel body and a ProMotion screen with refresh rates up to 120Hz for smoother scrolling.",
+    "color": "Blue",
+    "price": 799,
+    "imageUrl":
+      "https://www.cnet.com/a/img/resize/513b0b5bcd806313cf73b010aeffe3aa15503482/2021/10/01/0dc5aad3-9dfe-4be1-b37d-2f643d85cd66/20210925-iphone-13-pro-03.jpg?auto=webp&fit=crop&height=425&width=756",
+    "screen": "ProMotion",
+    "processor": "Intel Core 2 Duo",
+    "ram": "4 GB",
+    "detailImages": []
+  },
+  {
+    "name": "Samsung Galaxy S22+",
+    "manufacturer": "Samsung",
+    "description":
+      "The Samsung Galaxy S22+ blends top-notch connectivity and performance with the best mix of features and size for the price, making it the flagship Android phone to beat.",
+    "color": "Black",
+    "price": 999,
+    "imageUrl": "https://m.media-amazon.com/images/I/71VawMP6R1L._AC_SX466_.jpg",
+    "screen": "8K Screen",
+    "processor": "4NM Processor",
+    "ram": "6 GB",
+    "detailImages": []
+  },
+  {
+    "name": "Samsung Galaxy S22 Ultra Smartphone",
+    "manufacturer": "Samsung",
+    "description":
+      "The S22 Ultra is the true successor to the Galaxy Note line, delivering all the excellent Samsung phone features while making no concessions for size, weight, or price.",
+    "color": "Black",
+    "price": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/61U6oC65TTL._AC_SX466_.jpg",
+    "screen": "Ghost Screen",
+    "processor": "Samsung phantom processor",
+    "ram": "8 GB",
+    "detailImages": []
+  },
+  {
+    "name": "Samsung Galaxy Z Fold ",
+    "manufacturer": "Samsung",
+    "description":
+      "The Samsung Galaxy Z Fold3 5G giant screen gives it productivity powers no other phone can match.",
+    "color": "Black folding",
+    "price": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/71fZjtFFLsL._AC_SX466_.jpg",
+    "screen": "Folding screen",
+    "processor": "Amd Threadripper",
+    "ram": "12 GB",
+    "detailImages": []
+  },
+  {
+    "name": "Sunbeam F1",
+    "manufacturer": "Sumbeam Wireless",
+    "description":
+      "The Sunbeam F1 helps digital disconnectors target exactly the level of communication they want.",
+    "color": "Black",
+    "price": 799,
+    "imageUrl":
+      "https://i0.wp.com/sunbeamwireless.com/wp-content/uploads/2021/01/DSY-FL.png?fit=3000%2C1941&ssl=1",
+    "screen": "Old school",
+    "processor": "Intel Core Pentium",
+    "ram": "256 mb",
+    "detailImages": []
+  }
+]
