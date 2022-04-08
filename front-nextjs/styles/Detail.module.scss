@@ -1,0 +1,22 @@
+.container {
+  flex-wrap: wrap;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+}
+
+.details {
+  max-width: 400px;
+  padding: 0px 10px;
+}
+
+.image {
+  max-width: 300px;
+}
+
+.phoneItem {
+  word-break: break;
+}
